@@ -1,0 +1,5 @@
+C:\Users\serpr\Desktop\project\WinLocker\Debug\WinLocker.vcxprojAssemblyReference.cache
+C:\Users\serpr\Desktop\project\WinLocker\Debug\WinLocker.exe
+C:\Users\serpr\Desktop\project\WinLocker\Debug\WinLocker.pdb
+C:\Users\serpr\Desktop\project\WinLocker\Debug\WinLocker.Winlocker.resources
+C:\Users\serpr\Desktop\project\WinLocker\Debug\WinLocker.vcxproj.GenerateResource.cache
